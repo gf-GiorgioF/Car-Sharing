@@ -1,6 +1,6 @@
 # Car-Sharing
 <p align="center">
-<img src="https://enjoy.eni.com/social_tagging_1200x630.jpg" class="center">
+<img src="https://immagini.alvolante.it/sites/default/files/styles/image_gallery_big/public/news_galleria/2024/12/eni_enjoy_2.jpg">
 </p>
 
 
